@@ -1,7 +1,31 @@
 {
   "name": "md-links",
   "version": "0.1.0",
+  "type": "module",
   "dependencies": {
-    "node-fetch": "^3.1.0"
-  }
+    "node-fetch": "^3.1.0",
+    "yargs": "^17.3.0"
+  },
+  "description": "MD-Links",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudgomezg/SCL018-md-links.git"
+  },
+  "keywords": [
+    "--validate"
+  ],
+  "author": "Claudia Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudgomezg/SCL018-md-links/issues"
+  },
+  "homepage": "https://github.com/claudgomezg/SCL018-md-links#readme"
 }
